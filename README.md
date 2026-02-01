@@ -22,7 +22,7 @@ A sleek, responsive calculator web application built with vanilla JavaScript, HT
 **How to Run It**
 **Clone the repository:** 
 
-git clone [Your Repo Link]
+git clone [https://github.com/taha-karim/simple-calculator.git]
 
 Open index.html in your favorite browser.
 
